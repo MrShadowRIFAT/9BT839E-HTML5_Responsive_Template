@@ -1,3 +1,3 @@
-# 9BT839E-HTML5_Responsive _Template
+# 9BT839E-HTML5_Responsive_Template
 
-Automated repository created by GitHub Sync.
+Auto-generated README.
